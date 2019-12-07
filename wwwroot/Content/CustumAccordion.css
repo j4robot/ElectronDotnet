@@ -1,0 +1,25 @@
+﻿
+
+.panel-heading {
+    cursor: pointer;
+}
+
+/* CSS Method for adding Font Awesome Chevron Icons */
+ .accordion-toggle:after {
+    /* symbol for "opening" panels */
+    font-family:'FontAwesome';
+    content:"\f077";
+    float: right;
+    color: inherit;
+}
+.panel-heading.collapsed .accordion-toggle:after {
+    /* symbol for "collapsed" panels */
+    content:"\f078";
+}
+
+/*highligth selected table row*/
+.selected {
+    border: solid 1px #00A;
+    color: #00A;
+    background-color: #BCF;
+}
