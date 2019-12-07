@@ -1,0 +1,366 @@
+[
+  {
+    "id": 0,
+    "name": "Setup",
+    "controller": "Setup",
+    "action": "PayrollModule",
+    "description": "Configure global and organizational settings for your company.",
+    "children": [
+      {
+        "id": 0,
+        "name": "Global Parameters",
+        "icon": "globe",
+        "action": null,
+        "sub": [
+          {
+            "id": 0,
+            "name": "Payroll Module",
+            "action": "PayrollModule"
+          },
+          {
+            "id": 1,
+            "name": "Pay Period",
+            "action": "PayPeriod"
+          }
+
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Organisational Parameters",
+        "icon": "users",
+        "action": null,
+        "sub": [
+          {
+            "id": 1,
+            "name": "Salary Grade",
+            "action": "SalaryGrade"
+          },
+          {
+            "id": 2,
+            "name": "Employee Type",
+            "action": "EmployeeType"
+          },
+          {
+            "id": 3,
+            "name": "Positions",
+            "action": "Positions"
+          },
+          {
+            "id": 4,
+            "name": "Location",
+            "action": "Location"
+          },
+          {
+            "id": 5,
+            "name": "Division",
+            "action": "Division"
+          },
+          {
+            "id": 6,
+            "name": "Department",
+            "action": "Department"
+          },
+          {
+            "id": 7,
+            "name": "Section",
+            "action": "Section"
+          },
+          {
+            "id": 8,
+            "name": "Unit",
+            "action": "Unit"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Benefits Management",
+    "controller": "BenefitsManagement",
+    "action": "Earnings",
+    "description": "Manage benefits for employees in your company.",
+    "children": [
+      {
+        "id": 0,
+        "name": "Earning Setup",
+        "icon": "handshake-o",
+        "action": "Earnings",
+        "sub": null
+      },
+      {
+        "id": 1,
+        "name": "Recurring Earnings",
+        "icon": "handshake-o",
+        "action": null,
+        "sub": [
+          {
+            "id": 0,
+            "name": "By Employees",
+            "action": "RecurringEarningByEmployees"
+          },
+          {
+            "id": 1,
+            "name": "By Recurring Earnings",
+            "action": "RecurringEarningByEarnings"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Non Recurring Earnings",
+        "icon": "handshake-o",
+        "action": null,
+        "sub": [
+          {
+            "id": 0,
+            "name": "By Employees",
+            "action": "NonRecurringEarningByEmployees"
+          },
+          {
+            "id": 1,
+            "name": "By Non Recurring Earnings",
+            "action": "NonRecurringEarningByEarnings"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Non Cash Benefits",
+        "icon": "handshake-o",
+        "action": null,
+        "sub": [
+          {
+            "id": 0,
+            "name": "By Employees",
+            "action": "NonCashBenefitsByEmployees"
+          },
+          {
+            "id": 1,
+            "name": "By Non Cash Benefits",
+            "action": "NonCashBenefitsByNonCash"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Deductions Management",
+    "controller": "TaxDeductionManagement",
+    "description": "Manage taxes and deductions in your company.",
+    "action": "Deductions",
+    "children": [
+      {
+        "id": 0,
+        "name": "Deductions",
+        "action": "Deductions",
+        "sub": null
+      },
+      {
+        "id": 1,
+        "name": "Saving Schemes Setup",
+        "action": "SavingSchemesSetup",
+        "sub": null
+      },
+      {
+        "id": 1,
+        "name": "Recurring Deductions",
+        "sub": [
+          {
+            "id": 0,
+            "name": "By Employees",
+            "action": "RecurringDeductionByEmployees"
+          },
+          {
+            "id": 1,
+            "name": "By Recurring Deduction",
+            "action": "RecurringDeductionByDeduction"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Non Recurring Deductions",
+        "sub": [
+          {
+            "id": 0,
+            "name": "By Employees",
+            "action": "NonRecurringDeductionByEmployees"
+          },
+          {
+            "id": 1,
+            "name": "By Non Recurring Deduction",
+            "action": "NonRecurringDeductionByDeduction"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Savings Scheme Transactions",
+        "sub": [
+          {
+            "id": 0,
+            "name": "By Employees",
+            "action": "SavingSchemesByEmployees"
+          },
+          {
+            "id": 1,
+            "name": "By Savings Scheme",
+            "action": "SavingSchemesBySavingsScheme"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Loan Management",
+    "controller": "LoanManagement",
+    "action": "LoanSetup",
+    "description": "Manage loans for employees in your company.",
+    "children": [
+      {
+        "id": 0,
+        "name": "Loan Setup",
+        "icon": "cog",
+        "action": "LoanSetup",
+        "sub": null
+      },
+      {
+        "id": 1,
+        "name": "Loan Issue",
+        "icon": "money",
+        "action": "LoanIssue",
+        "sub": null
+      },
+      {
+        "id": 2,
+        "name": "Active Loans",
+        "icon": "ban",
+        "action": "ActiveLoans",
+        "sub": null
+      },
+      {
+        "id": 3,
+        "name": "Reports",
+        "icon": "pie-chart",
+        "action": "Reports",
+        "sub": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Employee Management",
+    "controller": "EmployeeManagement",
+    "action": "EmployeeDetails",
+    "description": "Manage details of employees in your company.",
+    "children": [
+      {
+        "id": 0,
+        "name": "Employee Details",
+        "icon": "user",
+        "action": "EmployeeDetails",
+        "sub": null
+      },
+      {
+        "id": 1,
+        "name": "Reports",
+        "icon": "pie-chart",
+        "action": "Reports",
+        "sub": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Utility Management",
+    "controller": "UtilityManagement",
+    "description": "Manage other utilities in your company.",
+    "action": "EmployeeUpdates",
+    "children": [
+      {
+        "id": 0,
+        "name": "Employee Updates",
+        "icon": "user-plus",
+        "action": "EmployeeUpdates",
+        "sub": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Reliefs Management",
+    "controller": "ReliefsManagement",
+    "description": "Manage reliefs in your company.",
+    "action": "TaxReliefsByEmployees",
+    "children": [
+      {
+        "id": 0,
+        "name": "Tax Reliefs",
+        "icon": "handshake-o",
+        "action": null,
+        "sub": [
+          {
+            "id": 0,
+            "name": "By Employees",
+            "action": "TaxReliefsByEmployees"
+          },
+          {
+            "id": 1,
+            "name": "By Tax Reliefs",
+            "action": "TaxReliefsByReliefs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Timesheet Transaction",
+    "controller": "TimesheetTransactions",
+    "action": "TimesheetPeriod",
+    "description": "Manage timesheet in your company.",
+    "children": [
+      {
+        "id": 0,
+        "name": "Timesheet Period Setup",
+        "icon": "calendar-plus-o",
+        "action": "TimesheetPeriod",
+        "sub": null
+      },
+      {
+        "id": 1,
+        "name": "Timesheet Entry Form",
+        "icon": "pencil-square-o",
+        "action": "TimeSheetEntry",
+        "sub": null
+      },
+      {
+        "id": 2,
+        "name": "Timesheet Entry Report",
+        "action": "TimesheetEntryReport",
+        "icon": "pie-chart",
+        "sub": null
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Payrun Process",
+    "controller": "PayrunProcess",
+    "action": "PayrunProcess",
+    "description": "Run pay for your employees.",
+    "children": null
+  },
+  {
+    "id": 9,
+    "name": "Reports",
+    "controller": "Report",
+    "action": "ReportListing",
+    "description": "View your company payroll related reports.",
+    "children": null
+  }
+]
