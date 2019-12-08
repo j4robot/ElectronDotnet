@@ -1,0 +1,742 @@
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/appsettings.Development.json
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/appsettings.json
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/electron.manifest.json
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Properties/launchSettings.json
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.deps.json
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.runtimeconfig.json
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.runtimeconfig.dev.json
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.pdb
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.Views.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.Views.pdb
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronNET.API.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/EngineIoClientDotNet.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Newtonsoft.Json.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/SocketIoClientDotNet.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/SuperSocket.ClientEngine.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/WebSocket4Net.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.CSharp.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.VisualBasic.Core.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.VisualBasic.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Win32.Primitives.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Win32.Registry.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.AppContext.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Buffers.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Collections.Concurrent.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Collections.Immutable.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Collections.NonGeneric.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Collections.Specialized.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Collections.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.Annotations.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.DataAnnotations.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.EventBasedAsync.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.Primitives.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.TypeConverter.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Configuration.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Console.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Core.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Data.Common.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Data.DataSetExtensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Data.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.Contracts.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.Debug.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.DiagnosticSource.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.FileVersionInfo.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.Process.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.StackTrace.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.TextWriterTraceListener.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.Tools.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.TraceSource.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.Tracing.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Drawing.Primitives.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Drawing.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Dynamic.Runtime.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Globalization.Calendars.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Globalization.Extensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Globalization.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.Brotli.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.FileSystem.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.ZipFile.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.FileSystem.AccessControl.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.FileSystem.DriveInfo.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.FileSystem.Primitives.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.FileSystem.Watcher.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.FileSystem.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.IsolatedStorage.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.MemoryMappedFiles.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Pipes.AccessControl.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Pipes.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.UnmanagedMemoryStream.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Linq.Expressions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Linq.Parallel.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Linq.Queryable.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Linq.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Memory.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Http.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.HttpListener.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Mail.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.NameResolution.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.NetworkInformation.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Ping.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Primitives.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Requests.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Security.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.ServicePoint.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Sockets.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.WebClient.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.WebHeaderCollection.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.WebProxy.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.WebSockets.Client.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.WebSockets.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Numerics.Vectors.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Numerics.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ObjectModel.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Private.DataContractSerialization.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Private.Uri.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Private.Xml.Linq.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Private.Xml.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.DispatchProxy.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Emit.ILGeneration.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Emit.Lightweight.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Emit.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Extensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Metadata.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Primitives.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.TypeExtensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Resources.Reader.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Resources.ResourceManager.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Resources.Writer.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.CompilerServices.Unsafe.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.CompilerServices.VisualC.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Extensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Handles.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.InteropServices.WindowsRuntime.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.InteropServices.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Intrinsics.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Loader.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Numerics.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Serialization.Formatters.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Serialization.Json.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Serialization.Primitives.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Serialization.Xml.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Serialization.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.WindowsRuntime.UI.Xaml.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.WindowsRuntime.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.AccessControl.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Claims.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Algorithms.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Cng.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Csp.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Encoding.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.OpenSsl.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Primitives.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.X509Certificates.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Principal.Windows.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Principal.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.SecureString.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ServiceModel.Web.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ServiceProcess.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.Encoding.CodePages.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.Encoding.Extensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.Encoding.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.Encodings.Web.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.Json.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.RegularExpressions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Channels.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Overlapped.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Tasks.Dataflow.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Tasks.Extensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Tasks.Parallel.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Tasks.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Thread.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.ThreadPool.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Timer.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Transactions.Local.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Transactions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ValueTuple.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Web.HttpUtility.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Web.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Windows.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.Linq.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.ReaderWriter.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.Serialization.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.XDocument.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.XPath.XDocument.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.XPath.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.XmlDocument.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.XmlSerializer.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/WindowsBase.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/mscorlib.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/netstandard.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/SOS_README.md
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Globalization.Native.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.Native.a
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.Native.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Native.a
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Native.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Http.Native.a
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Http.Native.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Security.Native.a
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Security.Native.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Private.CoreLib.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Native.OpenSsl.a
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Native.OpenSsl.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/createdump
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libclrjit.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libcoreclr.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libcoreclrtraceptprovider.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libdbgshim.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libhostfxr.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libhostpolicy.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libmscordaccore.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libmscordbi.so
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Antiforgery.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authentication.Core.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authentication.OAuth.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authentication.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authorization.Policy.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authorization.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Components.Authorization.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Components.Forms.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Components.Server.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Components.Web.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Components.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.CookiePolicy.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Cors.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.DataProtection.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Diagnostics.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.HostFiltering.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Hosting.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Html.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.Connections.Common.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.Connections.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.Extensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.Features.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.HttpOverrides.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.HttpsPolicy.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Identity.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Localization.Routing.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Localization.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Metadata.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Core.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Cors.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Localization.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Razor.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Razor.Runtime.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Razor.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.ResponseCaching.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.ResponseCompression.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Rewrite.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Routing.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Routing.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.HttpSys.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.IIS.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.IISIntegration.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Session.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.SignalR.Common.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.SignalR.Core.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.SignalR.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.StaticFiles.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.WebSockets.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.WebUtilities.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Caching.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Caching.Memory.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.Binder.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.CommandLine.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.Ini.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.Json.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.UserSecrets.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.Xml.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.DependencyInjection.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.FileProviders.Composite.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.FileProviders.Physical.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Hosting.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Http.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Identity.Core.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Identity.Stores.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Localization.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Localization.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.Configuration.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.Console.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.Debug.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.EventLog.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.EventSource.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.TraceSource.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.ObjectPool.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Options.DataAnnotations.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Options.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Primitives.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.WebEncoders.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.JSInterop.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Net.Http.Headers.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Win32.SystemEvents.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.EventLog.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Drawing.Common.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Pipelines.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Pkcs.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Xml.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Permissions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Windows.Extensions.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.csprojAssemblyReference.cache
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/staticwebassets/ElectronDotnet.StaticWebAssets.Manifest.cache
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/staticwebassets/ElectronDotnet.StaticWebAssets.xml
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.MvcApplicationPartsAssemblyInfo.cache
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.RazorAssemblyInfo.cache
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.RazorAssemblyInfo.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.AssemblyInfoInputs.cache
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.AssemblyInfo.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.TagHelpers.input.cache
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.TagHelpers.output.cache
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.RazorCoreGenerate.cache
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Home/Index.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Shared/Error.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/_ViewImports.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/_ViewStart.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.RazorTargetAssemblyInfo.cache
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.RazorTargetAssemblyInfo.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.Views.pdb
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.csproj.CopyComplete
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.dll
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.pdb
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Home/About.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Home/Contact.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Home/Dashboard.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/BonusTaxRulesSetup.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/CountrySetup.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/CurrencySetup.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/LoanRulesSetup.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/NonCashBenefitSetup.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/OvertimeRulesSetup.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/SavingsSchemeSetup.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/TaxBandSetup.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/TaxLawSetup.cshtml.g.cs
+/home/code-saitama/Documents/Sample Code/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/appsettings.Development.json
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/appsettings.json
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/electron.manifest.json
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Properties/launchSettings.json
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.deps.json
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.runtimeconfig.json
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.runtimeconfig.dev.json
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.pdb
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.Views.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.Views.pdb
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/ElectronNET.API.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/EngineIoClientDotNet.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Newtonsoft.Json.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/SocketIoClientDotNet.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/SuperSocket.ClientEngine.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/WebSocket4Net.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.CSharp.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.VisualBasic.Core.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.VisualBasic.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Win32.Primitives.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Win32.Registry.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.AppContext.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Buffers.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Collections.Concurrent.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Collections.Immutable.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Collections.NonGeneric.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Collections.Specialized.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Collections.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.Annotations.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.DataAnnotations.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.EventBasedAsync.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.Primitives.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.TypeConverter.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ComponentModel.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Configuration.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Console.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Core.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Data.Common.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Data.DataSetExtensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Data.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.Contracts.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.Debug.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.DiagnosticSource.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.FileVersionInfo.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.Process.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.StackTrace.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.TextWriterTraceListener.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.Tools.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.TraceSource.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.Tracing.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Drawing.Primitives.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Drawing.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Dynamic.Runtime.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Globalization.Calendars.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Globalization.Extensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Globalization.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.Brotli.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.FileSystem.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.ZipFile.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.FileSystem.AccessControl.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.FileSystem.DriveInfo.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.FileSystem.Primitives.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.FileSystem.Watcher.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.FileSystem.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.IsolatedStorage.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.MemoryMappedFiles.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Pipes.AccessControl.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Pipes.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.UnmanagedMemoryStream.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Linq.Expressions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Linq.Parallel.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Linq.Queryable.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Linq.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Memory.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Http.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.HttpListener.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Mail.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.NameResolution.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.NetworkInformation.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Ping.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Primitives.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Requests.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Security.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.ServicePoint.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Sockets.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.WebClient.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.WebHeaderCollection.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.WebProxy.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.WebSockets.Client.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.WebSockets.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Numerics.Vectors.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Numerics.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ObjectModel.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Private.DataContractSerialization.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Private.Uri.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Private.Xml.Linq.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Private.Xml.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.DispatchProxy.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Emit.ILGeneration.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Emit.Lightweight.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Emit.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Extensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Metadata.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.Primitives.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.TypeExtensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Reflection.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Resources.Reader.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Resources.ResourceManager.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Resources.Writer.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.CompilerServices.Unsafe.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.CompilerServices.VisualC.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Extensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Handles.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.InteropServices.WindowsRuntime.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.InteropServices.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Intrinsics.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Loader.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Numerics.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Serialization.Formatters.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Serialization.Json.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Serialization.Primitives.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Serialization.Xml.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.Serialization.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.WindowsRuntime.UI.Xaml.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.WindowsRuntime.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Runtime.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.AccessControl.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Claims.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Algorithms.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Cng.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Csp.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Encoding.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.OpenSsl.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Primitives.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.X509Certificates.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Principal.Windows.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Principal.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.SecureString.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ServiceModel.Web.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ServiceProcess.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.Encoding.CodePages.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.Encoding.Extensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.Encoding.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.Encodings.Web.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.Json.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Text.RegularExpressions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Channels.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Overlapped.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Tasks.Dataflow.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Tasks.Extensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Tasks.Parallel.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Tasks.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Thread.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.ThreadPool.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.Timer.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Threading.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Transactions.Local.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Transactions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.ValueTuple.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Web.HttpUtility.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Web.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Windows.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.Linq.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.ReaderWriter.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.Serialization.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.XDocument.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.XPath.XDocument.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.XPath.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.XmlDocument.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.XmlSerializer.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Xml.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/WindowsBase.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/mscorlib.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/netstandard.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/SOS_README.md
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Globalization.Native.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.Native.a
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Compression.Native.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Native.a
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Native.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Http.Native.a
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Http.Native.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Security.Native.a
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Net.Security.Native.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Private.CoreLib.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Native.OpenSsl.a
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Native.OpenSsl.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/createdump
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libclrjit.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libcoreclr.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libcoreclrtraceptprovider.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libdbgshim.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libhostfxr.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libhostpolicy.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libmscordaccore.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/libmscordbi.so
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Antiforgery.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authentication.Core.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authentication.OAuth.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authentication.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authorization.Policy.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Authorization.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Components.Authorization.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Components.Forms.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Components.Server.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Components.Web.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Components.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.CookiePolicy.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Cors.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.DataProtection.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Diagnostics.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.HostFiltering.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Hosting.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Html.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.Connections.Common.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.Connections.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.Extensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.Features.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Http.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.HttpOverrides.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.HttpsPolicy.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Identity.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Localization.Routing.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Localization.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Metadata.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Core.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Cors.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Localization.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.Razor.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Mvc.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Razor.Runtime.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Razor.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.ResponseCaching.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.ResponseCompression.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Rewrite.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Routing.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Routing.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.HttpSys.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.IIS.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.IISIntegration.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Server.Kestrel.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.Session.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.SignalR.Common.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.SignalR.Core.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.SignalR.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.StaticFiles.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.WebSockets.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.WebUtilities.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.AspNetCore.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Caching.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Caching.Memory.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.Binder.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.CommandLine.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.Ini.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.Json.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.UserSecrets.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.Xml.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Configuration.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.DependencyInjection.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.FileProviders.Composite.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.FileProviders.Physical.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Hosting.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Http.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Identity.Core.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Identity.Stores.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Localization.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Localization.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.Configuration.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.Console.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.Debug.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.EventLog.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.EventSource.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.TraceSource.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Logging.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.ObjectPool.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Options.DataAnnotations.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Options.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.Primitives.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Extensions.WebEncoders.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.JSInterop.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Net.Http.Headers.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/Microsoft.Win32.SystemEvents.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Diagnostics.EventLog.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Drawing.Common.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.IO.Pipelines.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Pkcs.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Cryptography.Xml.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Security.Permissions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/bin/Debug/netcoreapp3.0/linux-x64/System.Windows.Extensions.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.csprojAssemblyReference.cache
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/staticwebassets/ElectronDotnet.StaticWebAssets.Manifest.cache
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/staticwebassets/ElectronDotnet.StaticWebAssets.xml
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.MvcApplicationPartsAssemblyInfo.cache
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.RazorAssemblyInfo.cache
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.RazorAssemblyInfo.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.AssemblyInfoInputs.cache
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.AssemblyInfo.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.TagHelpers.input.cache
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.TagHelpers.output.cache
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.RazorCoreGenerate.cache
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Home/About.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Home/Contact.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Home/Dashboard.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Home/Index.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/BonusTaxRulesSetup.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/CountrySetup.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/CurrencySetup.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/LoanRulesSetup.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/NonCashBenefitSetup.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/OvertimeRulesSetup.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/SavingsSchemeSetup.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/TaxBandSetup.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Setup/TaxLawSetup.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Shared/Error.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/_ViewImports.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/Razor/Views/_ViewStart.cshtml.g.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.RazorTargetAssemblyInfo.cache
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.RazorTargetAssemblyInfo.cs
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.Views.pdb
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.csproj.CopyComplete
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.dll
+/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/Debug/netcoreapp3.0/linux-x64/ElectronDotnet.pdb
