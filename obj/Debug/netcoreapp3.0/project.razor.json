@@ -1895,7 +1895,7 @@
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
-        "Documentation": null,
+        "Documentation": "\n            <summary>\n            Adds Data Annotations validation support to an <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditContext\" />.\n            </summary>\n        ",
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -1919,7 +1919,7 @@
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
-        "Documentation": null,
+        "Documentation": "\n            <summary>\n            Adds Data Annotations validation support to an <see cref=\"T:Microsoft.AspNetCore.Components.Forms.EditContext\" />.\n            </summary>\n        ",
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -9713,7 +9713,7 @@
             "IsEnum": false,
             "IndexerNamePrefix": null,
             "IndexerTypeName": null,
-            "Documentation": "\n            <summary>\n            The name of the action method.\n            </summary>\n            <remarks>\n            Must be <c>null</c> if <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper.Route\" /> or <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper.Page\" /> is non-<c>null</c>.\n            </remarks>\n        ",
+            "Documentation": null,
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Action"
@@ -14344,16 +14344,6 @@
   "RootNamespace": "ElectronDotnet",
   "Documents": [
     {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Setup/TaxBandSetup.cshtml",
-      "TargetPath": "Views/Setup/TaxBandSetup.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Setup/BonusTaxRulesSetup.cshtml",
-      "TargetPath": "Views/Setup/BonusTaxRulesSetup.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Home/Index.cshtml",
       "TargetPath": "Views/Home/Index.cshtml",
       "FileKind": "mvc"
@@ -14364,23 +14354,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Setup/SavingsSchemeSetup.cshtml",
-      "TargetPath": "Views/Setup/SavingsSchemeSetup.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Setup/CountrySetup.cshtml",
-      "TargetPath": "Views/Setup/CountrySetup.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Setup/LoanRulesSetup.cshtml",
-      "TargetPath": "Views/Setup/LoanRulesSetup.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14389,18 +14364,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Setup/NonCashBenefitSetup.cshtml",
-      "TargetPath": "Views/Setup/NonCashBenefitSetup.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Shared/Error.cshtml",
       "TargetPath": "Views/Shared/Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Setup/CurrencySetup.cshtml",
-      "TargetPath": "Views/Setup/CurrencySetup.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14409,13 +14374,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Setup/OvertimeRulesSetup.cshtml",
-      "TargetPath": "Views/Setup/OvertimeRulesSetup.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Home/Contact.cshtml",
-      "TargetPath": "Views/Home/Contact.cshtml",
+      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Home/Task.cshtml",
+      "TargetPath": "Views/Home/Task.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14424,23 +14384,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Setup/TaxLawSetup.cshtml",
-      "TargetPath": "Views/Setup/TaxLawSetup.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/_ViewImports.cshtml",
       "TargetPath": "Views/_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views/Home/Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/Views/Home/About.cshtml",
-      "TargetPath": "Views/Home/About.cshtml",
       "FileKind": "mvc"
     }
   ],

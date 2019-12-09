@@ -28,6 +28,11 @@ namespace ElectronDotnet.Controllers
             return View();
         }
 
+        public IActionResult Task()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

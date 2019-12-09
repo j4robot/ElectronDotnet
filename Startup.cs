@@ -7,16 +7,28 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.DependencyInjection.Extensions;
+using Microsoft.AspNetCore.Mvc;
 using ElectronNET.API;
 using ElectronNET.API.Entities;
+using ElectronDotnet.Services;
+using Microsoft.AspNetCore.Http;
 
 namespace ElectronDotnet
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        static public IConfigurationRoot ConfigurationRoot { get; set; }
+        public Startup(IConfiguration configuration, IWebHostEnvironment env)
         {
+            
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(env.ContentRootPath)
+                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
+                .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true)
+                .AddEnvironmentVariables();
+
+            ConfigurationRoot = builder.Build();
             Configuration = configuration;
         }
 
@@ -25,11 +37,29 @@ namespace ElectronDotnet
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            //var config = new HTTPConfigurationSettings();
+            //Configuration.Bind("IDPSETTINGS", config);
+            //services.AddSingleton(config);
+
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+            
+            services.AddScoped<HTTPClient, HTTPClientIdentity>();
+            services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.Configure<CookiePolicyOptions>(options =>
+            {
+                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+                options.CheckConsentNeeded = context => true;
+                options.MinimumSameSitePolicy = SameSiteMode.None;
+            });
+
+            services.AddHttpClient();
+            services.AddMvc().AddNewtonsoftJson();
+
+            //services.AddControllersWithViews();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {

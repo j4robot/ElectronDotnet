@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/code-saitama/Documents/CodeHub/ElectronDotnet/ElectronDotnet.csproj": {}
+    "/home/code-saitama/dev/CodeHub/ElectronDotnet/ElectronDotnet.csproj": {}
   },
   "projects": {
-    "/home/code-saitama/Documents/CodeHub/ElectronDotnet/ElectronDotnet.csproj": {
+    "/home/code-saitama/dev/CodeHub/ElectronDotnet/ElectronDotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/code-saitama/Documents/CodeHub/ElectronDotnet/ElectronDotnet.csproj",
+        "projectUniqueName": "/home/code-saitama/dev/CodeHub/ElectronDotnet/ElectronDotnet.csproj",
         "projectName": "ElectronDotnet",
-        "projectPath": "/home/code-saitama/Documents/CodeHub/ElectronDotnet/ElectronDotnet.csproj",
+        "projectPath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/ElectronDotnet.csproj",
         "packagesPath": "/home/code-saitama/.nuget/packages/",
-        "outputPath": "/home/code-saitama/Documents/CodeHub/ElectronDotnet/obj/",
+        "outputPath": "/home/code-saitama/dev/CodeHub/ElectronDotnet/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -42,6 +42,22 @@
             "ElectronNET.API": {
               "target": "Package",
               "version": "[5.30.1, )"
+            },
+            "Marvin.StreamExtensions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             }
           },
           "imports": [

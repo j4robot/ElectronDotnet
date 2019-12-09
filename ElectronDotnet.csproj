@@ -4,6 +4,11 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="ElectronNET.API" Version="5.30.1" />
+    <PackageReference Include="Marvin.StreamExtensions" Version="1.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.0.0" />
   </ItemGroup>
   <ItemGroup></ItemGroup>
   <ItemGroup>
@@ -12,3 +17,5 @@
     </Content>
   </ItemGroup>
 </Project>
+
+
